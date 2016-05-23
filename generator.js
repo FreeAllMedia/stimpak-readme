@@ -1,4 +1,4 @@
-import inflect from "jargon";
+//import inflect from "jargon";
 
 export default class StimpakReadme {
 	constructor(stimpak) {

@@ -1,23 +1,22 @@
 {
-	"name": "stimpak-readme",
-	"version": "0.0.1",
-	"description": "It's a new generator. I don't really have a description for it, yet.",
-	"main": "generator.js",
-	"keywords": [
-		"stimpak"
-	],
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/FreeAllMedia/stimpak-readme.git"
-	},
-	"bugs": {
-		"url": "https://github.com/FreeAllMedia/stimpak-readme/issues"
-	},
-	"author": "dcrockwell",
-	"license": "MIT",
-	"homepage": "https://github.com/FreeAllMedia/stimpak-readme#readme",
-	"dependencies": {
-		"babel-preset-es2015": "^6.5.0",
-		"jargon": "^0.1.23"
-	}
+  "name": "stimpak-readme",
+  "version": "0.0.2",
+  "description": "It's a new generator. I don't really have a description for it, yet.",
+  "main": "generator.js",
+  "keywords": [
+    "stimpak"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeAllMedia/stimpak-readme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FreeAllMedia/stimpak-readme/issues"
+  },
+  "author": "dcrockwell",
+  "license": "MIT",
+  "homepage": "https://github.com/FreeAllMedia/stimpak-readme#readme",
+  "dependencies": {
+    "jargon": "^0.1.23"
+  }
 }
