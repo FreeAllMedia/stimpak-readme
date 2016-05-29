@@ -27,6 +27,10 @@ export default class StimpakReadme {
 				});
 
 				done();
+			}).
+			then((stimpak, done) => {
+				stimpak.quote();
+				done();
 			});
 	}
 }
