@@ -1,8 +1,10 @@
-//import inflect from "jargon";
+import inflect from "jargon";
+import StimpakQuotes from "stimpak-quotes";
 
 export default class StimpakReadme {
 	constructor(stimpak) {
 		stimpak
+			.use(StimpakQuotes)
 			.source("**/*")
 				.directory(`${__dirname}/templates`)
 			.prompt({

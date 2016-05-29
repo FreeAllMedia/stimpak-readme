@@ -1,6 +1,6 @@
 {
   "name": "stimpak-readme",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "It's a new generator. I don't really have a description for it, yet.",
   "main": "generator.js",
   "keywords": [
@@ -17,6 +17,7 @@
   "license": "MIT",
   "homepage": "https://github.com/FreeAllMedia/stimpak-readme#readme",
   "dependencies": {
-    "jargon": "^0.1.23"
+    "jargon": "^0.1.23",
+		"stimpak-quotes": "0.0.1"
   }
 }
